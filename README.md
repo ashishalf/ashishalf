@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Hi, I’m Ashish <br>🤓 I’m knowledgeable, creative, and intelligent. <br>🎓 Now I'm pursuing BCA from Quantum University Roorkee. <br>🌱 I’m at the cutting edge of my field and <br>😎 I’m quite skilled in all things programming and blogging-related.
+🙋‍♂️ Hi, I’m Ashish <br>🤓 I’m knowledgeable, creative, and intelligent. <br>🎓 Now I'm pursuing MCA from Quantum University Roorkee. <br>🌱 I’m at the cutting edge of my field and <br>😎 I’m quite skilled in all things programming and blogging-related.
 
 
 ## 🌐 Socials:
