@@ -1,6 +1,7 @@
 [![An image of @ashishalf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishalf)](https://holopin.io/@ashishalf)
 # 💫 About Me:
-🙋‍♂️ Hi, I’m Ashish <br>🤓 I’m knowledgeable, creative, and intelligent. <br>🎓 Now I'm pursuing MCA from Quantum University Roorkee. <br>🌱 I’m at the cutting edge of my field and <br>😎 I’m quite skilled in all things programming and blogging-related.
+Hello, I'm Ashish, an MCA student at Quantum University Roorkee. I'm passionate about web development, technology, UI/UX, and content creation, and I'm always looking for ways to learn and grow in these areas.<br>
+I consider myself knowledgeable, creative, and intelligent, and I'm committed to staying at the cutting edge of my field. With my web development skills and UI designing , I'm confident in my ability to make meaningful contributions to the tech industry.
 
 
 ## 🌐 Socials:
